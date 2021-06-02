@@ -1,5 +1,5 @@
 # ASAR
-# Animal search and rescue
+# Animal Search And Rescue
 ________________________________________________________________________________
 
 ## This python notebook is heavily directed towards the reasearch of the algorithm that can be used to solve the problem 
