@@ -27,3 +27,9 @@ All this brought me to the conclusion of which algo or model was best suited for
 
 
 
+## New Data set was created
+- The new build gives an accuracy of 84% to 96% which is the best we could produce as we had to prepare data from scratch
+- The new model have already been pickled and provides with MAIN in their titles
+- The Main program have been uploaded with the name as MAIN.ipynb
+__________________________________________________________________________________
+# At the end I would like to thank Aratrika,Akhil and Rollin to help me out to finish this project
