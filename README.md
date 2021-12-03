@@ -32,4 +32,4 @@ All this brought me to the conclusion of which algo or model was best suited for
 - The new model have already been pickled and provides with MAIN in their titles
 - The Main program have been uploaded with the name as MAIN.ipynb
 __________________________________________________________________________________
-### At the end I would like to thank Aratrika,Akhil and Rollin to help me out to finish this project
+### At the end I would like to thank Aratrika, Akhil and Rollin to help me out to finish this project
